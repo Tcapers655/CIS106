@@ -4,7 +4,7 @@
 
 [Lab 2](https://github.com/Tcapers655/CIS106/tree/main/labs/lab2)
 
-## Debian Dekstop
+## Debian Desktop
 
 ![Debian Desktop](DebianDesk.png)
 
