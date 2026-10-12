@@ -1,7 +1,7 @@
 # Week Report 3 
 ## Completed work for week 3 
-* [Lab 3](lab3.md)
-* [Notes 3](notes3.md)
+* [Lab 3](../../labs/lab3/lab3.md)
+* [Notes 3](../../notes/notes3/notes3.md)
 
 ## Practice Screenshots
 
