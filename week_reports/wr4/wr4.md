@@ -13,4 +13,4 @@
 
 ## Notes 4
 
-[Notes 4]()
+[Notes 4](https://github.com/Tcapers655/CIS106/blob/main/notes/notes4/notes4.md)
